@@ -1,0 +1,16 @@
+C:\Users\guilh\Documents\Visual Studio 2022\Projects\SocketsExercise\SocketExercise\Client\bin\Debug\net5.0\Client.exe
+C:\Users\guilh\Documents\Visual Studio 2022\Projects\SocketsExercise\SocketExercise\Client\bin\Debug\net5.0\Client.deps.json
+C:\Users\guilh\Documents\Visual Studio 2022\Projects\SocketsExercise\SocketExercise\Client\bin\Debug\net5.0\Client.runtimeconfig.json
+C:\Users\guilh\Documents\Visual Studio 2022\Projects\SocketsExercise\SocketExercise\Client\bin\Debug\net5.0\Client.runtimeconfig.dev.json
+C:\Users\guilh\Documents\Visual Studio 2022\Projects\SocketsExercise\SocketExercise\Client\bin\Debug\net5.0\Client.dll
+C:\Users\guilh\Documents\Visual Studio 2022\Projects\SocketsExercise\SocketExercise\Client\bin\Debug\net5.0\ref\Client.dll
+C:\Users\guilh\Documents\Visual Studio 2022\Projects\SocketsExercise\SocketExercise\Client\bin\Debug\net5.0\Client.pdb
+C:\Users\guilh\Documents\Visual Studio 2022\Projects\SocketsExercise\SocketExercise\Client\obj\Debug\net5.0\Client.csproj.AssemblyReference.cache
+C:\Users\guilh\Documents\Visual Studio 2022\Projects\SocketsExercise\SocketExercise\Client\obj\Debug\net5.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Documents\Visual Studio 2022\Projects\SocketsExercise\SocketExercise\Client\obj\Debug\net5.0\Client.AssemblyInfoInputs.cache
+C:\Users\guilh\Documents\Visual Studio 2022\Projects\SocketsExercise\SocketExercise\Client\obj\Debug\net5.0\Client.AssemblyInfo.cs
+C:\Users\guilh\Documents\Visual Studio 2022\Projects\SocketsExercise\SocketExercise\Client\obj\Debug\net5.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Documents\Visual Studio 2022\Projects\SocketsExercise\SocketExercise\Client\obj\Debug\net5.0\Client.dll
+C:\Users\guilh\Documents\Visual Studio 2022\Projects\SocketsExercise\SocketExercise\Client\obj\Debug\net5.0\ref\Client.dll
+C:\Users\guilh\Documents\Visual Studio 2022\Projects\SocketsExercise\SocketExercise\Client\obj\Debug\net5.0\Client.pdb
+C:\Users\guilh\Documents\Visual Studio 2022\Projects\SocketsExercise\SocketExercise\Client\obj\Debug\net5.0\Client.genruntimeconfig.cache
