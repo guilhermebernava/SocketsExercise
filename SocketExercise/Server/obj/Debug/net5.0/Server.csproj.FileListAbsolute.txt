@@ -14,3 +14,19 @@ C:\Users\guilh\Documents\Visual Studio 2022\Projects\SocketsExercise\SocketExerc
 C:\Users\guilh\Documents\Visual Studio 2022\Projects\SocketsExercise\SocketExercise\Server\obj\Debug\net5.0\ref\Server.dll
 C:\Users\guilh\Documents\Visual Studio 2022\Projects\SocketsExercise\SocketExercise\Server\obj\Debug\net5.0\Server.pdb
 C:\Users\guilh\Documents\Visual Studio 2022\Projects\SocketsExercise\SocketExercise\Server\obj\Debug\net5.0\Server.genruntimeconfig.cache
+C:\Users\guilh\Documents\Exercise\Teste 2\SocketsExercise\SocketExercise\Server\bin\Debug\net5.0\Server.exe
+C:\Users\guilh\Documents\Exercise\Teste 2\SocketsExercise\SocketExercise\Server\bin\Debug\net5.0\Server.deps.json
+C:\Users\guilh\Documents\Exercise\Teste 2\SocketsExercise\SocketExercise\Server\bin\Debug\net5.0\Server.runtimeconfig.json
+C:\Users\guilh\Documents\Exercise\Teste 2\SocketsExercise\SocketExercise\Server\bin\Debug\net5.0\Server.runtimeconfig.dev.json
+C:\Users\guilh\Documents\Exercise\Teste 2\SocketsExercise\SocketExercise\Server\bin\Debug\net5.0\Server.dll
+C:\Users\guilh\Documents\Exercise\Teste 2\SocketsExercise\SocketExercise\Server\bin\Debug\net5.0\ref\Server.dll
+C:\Users\guilh\Documents\Exercise\Teste 2\SocketsExercise\SocketExercise\Server\bin\Debug\net5.0\Server.pdb
+C:\Users\guilh\Documents\Exercise\Teste 2\SocketsExercise\SocketExercise\Server\obj\Debug\net5.0\Server.csproj.AssemblyReference.cache
+C:\Users\guilh\Documents\Exercise\Teste 2\SocketsExercise\SocketExercise\Server\obj\Debug\net5.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Documents\Exercise\Teste 2\SocketsExercise\SocketExercise\Server\obj\Debug\net5.0\Server.AssemblyInfoInputs.cache
+C:\Users\guilh\Documents\Exercise\Teste 2\SocketsExercise\SocketExercise\Server\obj\Debug\net5.0\Server.AssemblyInfo.cs
+C:\Users\guilh\Documents\Exercise\Teste 2\SocketsExercise\SocketExercise\Server\obj\Debug\net5.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Documents\Exercise\Teste 2\SocketsExercise\SocketExercise\Server\obj\Debug\net5.0\Server.dll
+C:\Users\guilh\Documents\Exercise\Teste 2\SocketsExercise\SocketExercise\Server\obj\Debug\net5.0\ref\Server.dll
+C:\Users\guilh\Documents\Exercise\Teste 2\SocketsExercise\SocketExercise\Server\obj\Debug\net5.0\Server.pdb
+C:\Users\guilh\Documents\Exercise\Teste 2\SocketsExercise\SocketExercise\Server\obj\Debug\net5.0\Server.genruntimeconfig.cache
